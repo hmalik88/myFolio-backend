@@ -22,7 +22,7 @@ end
 private
 
 def user_login_params
-  params.require(:user).permit(:e_mail, :password)
+  params.require(:user).permit(:email, :password)
 end
 
 end
