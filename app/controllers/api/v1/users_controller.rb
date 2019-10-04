@@ -12,11 +12,6 @@ skip_before_action :authorized, only: [:create]
     end
   end
 
-  def show
-    @user = User.find_by(id: params[:id])
-    render json: {user: @user, transactions: @users.transactions}, status: :accepted
-  end
-
   private
 
   def user_params

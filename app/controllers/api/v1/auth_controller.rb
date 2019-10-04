@@ -13,7 +13,7 @@ end
 
 def show
   if current_user
-    render json: {user: current_user}
+    render json: {user: current_user, transactions: current_user.transactions}
   else
     render json: {error: "not logged in"}, status: 422
   end
