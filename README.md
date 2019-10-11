@@ -18,7 +18,9 @@ In order to install the back-end of this application, you need to do the followi
 
 **Step 5** Run 'rails s' to start the back-end server.
 
+***Note**: If live link is down, you can simulate the application by changing the fetch requests in the **front-end** from*
 
+*https://myfolio-api.herokuapp.com/ to http://localhost:3000/api/v1/*
 
 The back-end is now ready for interaction.
 
