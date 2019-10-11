@@ -1,4 +1,4 @@
-# myFolio | Back-end |
+# | myFolio | Back-end |
 
 **Installing the back-end**
 
