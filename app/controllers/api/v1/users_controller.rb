@@ -16,7 +16,7 @@ skip_before_action :authorized, only: [:create]
   private
 
   def user_params
-    params.require(:user).permit(:email, :password)
+    params.require(:user).permit(:email, :password, :name)
   end
 
 
