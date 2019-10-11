@@ -1,24 +1,23 @@
-# README
+# | myFolio | Back-end |
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Installing the back-end
 
-Things you may want to cover:
+In order to install the back-end of this application, you need to do the following:
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+**Step 1** Clone this repository.
 
-* Database creation
+**Step 2** Run 'gem install' to install all the dependencies.
 
-* Database initialization
+**Step 3** Run 'rails db:create' to create your database.
 
-* How to run the test suite
+**Step 4** Run 'rails db:migrate' to run your migrations to create your tables.
 
-* Services (job queues, cache servers, search engines, etc.)
+**Step 5** Run 'rails s' to start the back-end server.
 
-* Deployment instructions
 
-* ...
+
+The back-end is now ready for interaction.
+
+*Please see the following link for the front-end: https://github.com/hmalik88/myFolio-frontend* 
