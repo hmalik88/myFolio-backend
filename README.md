@@ -2,7 +2,7 @@
 
 ### Installing the back-end
 
-In order to install the backend of this application, you need to do the following:
+In order to install the back-end of this application, you need to do the following:
 
 
 
@@ -16,6 +16,6 @@ In order to install the backend of this application, you need to do the followin
 
 
 
-The backend is now ready for interaction.
+The back-end is now ready for interaction.
 
 *Please see the following link for the front-end: https://github.com/hmalik88/myFolio-frontend* 
