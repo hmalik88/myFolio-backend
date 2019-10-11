@@ -4,7 +4,7 @@
 
 In order to install the backend of this application, you need to do the following:
 
-**STEP 1** Clone this repository.
+***STEP 1*** Clone this repository.
 
 **STEP 2** Run 'gem install' to install all the dependencies.
 
