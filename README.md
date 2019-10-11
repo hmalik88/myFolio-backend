@@ -14,6 +14,8 @@ In order to install the back-end of this application, you need to do the followi
 
 **Step 4** Run 'rails db:migrate' to run your migrations to create your tables.
 
+**Step 5** Run 'rails s' to start the back-end server.
+
 
 
 The back-end is now ready for interaction.
