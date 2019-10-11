@@ -8,9 +8,9 @@ In order to install the backend of this application, you need to do the followin
 
 ### STEP 2 Run 'gem install' to install all the dependencies.
 
-**STEP 3** Run 'rails db:create' to create your database.
+### STEP 3 Run 'rails db:create' to create your database.
 
-**STEP 4** Run 'rails db:migrate' to run your migrations to create your tables.
+### STEP 4 Run 'rails db:migrate' to run your migrations to create your tables.
 
 The backend is now ready for interaction.
 
