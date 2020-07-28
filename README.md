@@ -2,7 +2,7 @@
 
 ### LIVE LINK: https://myfolio-stocks.herokuapp.com/
 
-## myFolio is a stock-purchasing simulation app. As a user, you have the ability to create an account and purchase stocks at any given time. You can purchase the stocks by providing a ticker and quantity. You can view your current portfolio of stocks and its current value. You can also view your transaction history. All stock prices are fed by a real-time API.
+myFolio is a stock-purchasing simulation app. As a user, you have the ability to create an account and purchase stocks at any given time. You can purchase the stocks by providing a ticker and quantity. You can view your current portfolio of stocks and its current value. You can also view your transaction history. All stock prices are fed by a real-time API.
 
 ### Installing the back-end
 
